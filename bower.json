@@ -1,0 +1,25 @@
+{
+  "name": "course_meanstack",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Rob Merrill <robgmerrill@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "toastr": "^2.1.2",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0"
+  }
+}
